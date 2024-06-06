@@ -7,10 +7,10 @@ $${\color{pink} by \space Yothinburana \space School}$$
 
 # ${\color{aqua}About \space Us.}$
 
-${Our \space team\space has\space three\space members. }$
+### ${Our \space team\space has\space three\space members. }$
 
-Main Programmer: Pawit Nateenantasawasd (Book)
+$Main Programmer: Pawit Nateenantasawasd (Book)$
 
-Mechanic: Pongpapat Putongkam (O'ly)
+$Mechanic: Pongpapat Putongkam (O'ly)$
 
-Support: Thanyawut Krittikanon (Kaopun)
+$Support: Thanyawut Krittikanon (Kaopun)$
