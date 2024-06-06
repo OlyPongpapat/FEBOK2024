@@ -9,8 +9,8 @@ $${\color{pink} by \space Yothinburana \space School}$$
 
 ### ${Our \space team\space has\space three\space members. }$
 
-$Main Programmer: Pawit Nateenantasawasd (Book)$
+$Main \space Programmer: Pawit \space Nateenantasawasd \space (Book)$
 
-$Mechanic: Pongpapat Putongkam (O'ly)$
+$Mechanic: Pongpapat \space Putongkam \space (O'ly)$
 
-$Support: Thanyawut Krittikanon (Kaopun)$
+$Support: Thanyawut \space Krittikanon \space (Kaopun)$
