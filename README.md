@@ -6,3 +6,11 @@ $${\color{pink} by \space Yothinburana \space School}$$
   <img src="https://ybrobot.club/image/YB%20Robot%20logo.png" width="200"/>
 
 # ${\color{aqua}About \space Us.}$
+
+${Our \space team\space has\space three\space members. }$
+
+Main Programmer: Pawit Nateenantasawasd (Book)
+
+Mechanic: Pongpapat Putongkam (O'ly)
+
+Support: Thanyawut Krittikanon (Kaopun)
