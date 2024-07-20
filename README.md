@@ -12,18 +12,18 @@ $${\color{pink} by \space Yothinburana \space School}$$
 
 ### $${\color{orange} Our \space team\space has\space three\space members.}$$
 
-$${\color{blue}Main \space Programmer: \space Pawit \space Nateenantasawasd \space (Book)}$$
+${\color{blue}Main \space Programmer: \space Pawit \space Nateenantasawasd \space (Book)}$
 
-$${\color{orange}Mechanic: \space Pongpapat \space Putongkam \space (O'ly)}$$
+${\color{orange}Mechanic: \space Pongpapat \space Putongkam \space (O'ly)}$
 
-$${\color{pink}Support: \space Thanyawut \space Krittikanon \space (Kaopun)}$$
+${\color{pink}Support: \space Thanyawut \space Krittikanon \space (Kaopun)}$
 
-$${We \space are \space all \space classmates \space and \space good \space friends \space at \space Yothinburana \space School \space in \space Bangkok, \space Thailand.}$$
+${We \space are \space all \space classmates \space and \space good \space friends \space at \space Yothinburana \space School \space in \space Bangkok, \space Thailand.}$
 
-$${This \space is \space our \space second \space year \space participating \space in \space this \space competition.}$$
+${This \space is \space our \space second \space year \space participating \space in \space this \space competition.}$
 
-$${Last \space year, \space two \space of \space us \space had \space the \space opportunity \space to \space compete \space in \space the \space international \space round.}$$
+${Last \space year, \space two \space of \space us \space had \space the \space opportunity \space to \space compete \space in \space the \space international \space round.}$
 
-$${However, \space due \space to \space rookie \space mistakes, \space we \space finished \space in \space 8th \space place.}$$
+${However, \space due \space to \space rookie \space mistakes, \space we \space finished \space in \space 8th \space place.}$
 
-$${This \space year, \space we \space are \space determined \space to \space redeem \space ourselves.}$$
+${This \space year, \space we \space are \space determined \space to \space redeem \space ourselves.}$
