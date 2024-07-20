@@ -6,11 +6,11 @@
   <img src="https://ybrobot.club/image/YB%20Robot%20logo.png" width="200"/>
 </p>
 <p align="center">
- **by Yothinburana School**
+ by Yothinburana School
 
-# $${\color{aqua}About \space Us.}$$
+# **About Us.**
 
-### $${\color{orange} Our \space team\space has\space three\space members.}$$
+### **Our team has three members.**
 
 $${\color{blue}Main \space Programmer: \space Pawit \space Nateenantasawasd \space (Book)}$$
 
