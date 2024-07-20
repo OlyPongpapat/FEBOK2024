@@ -4,12 +4,13 @@
 
 <p align="center">
   <img src="https://ybrobot.club/image/YB%20Robot%20logo.png" width="200"/>
+</p>
 
 $${\color{pink} by \space Yothinburana \space School}$$
 
-# ${\color{aqua}About \space Us.}$
+# $${\color{aqua}About \space Us.}$$
 
-### ${Our \space team\space has\space three\space members. }$
+### $${Our \space team\space has\space three\space members.}$$
 
 $Main \space Programmer: Pawit \space Nateenantasawasd \space (Book)$
 
