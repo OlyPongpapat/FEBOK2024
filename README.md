@@ -18,4 +18,4 @@ $${\color{orange}Mechanic: \space Pongpapat \space Putongkam \space (O'ly)}$$
 
 $${\color{pink}Support: \space Thanyawut \space Krittikanon \space (Kaopun)}$$
 
-### \color{grey} We are classmates and good friends at Yothinburana School in Bangkok, Thailand. This is our second year participating in this competition. Last year, two of us had the opportunity to compete in the international round. However, due to rookie mistakes, we placed 8th. This year, we are determined to redeem ourselves.
+### {\color{grey} We are classmates and good friends at Yothinburana School in Bangkok, Thailand. This is our second year participating in this competition. Last year, two of us had the opportunity to compete in the international round. However, due to rookie mistakes, we placed 8th. This year, we are determined to redeem ourselves.}
