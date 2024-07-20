@@ -28,12 +28,10 @@ Support: Thanyawut Krittikanon
 
 
 
-# **Youtube Links.**
+# **Part 1: ROBTO DESIGN**
 
-In the first clip is a robot walking, and when it detects a red line, it will turn right. Then, the ultrasonic sensor's servo will turn left. However, if it encounters a blue line, it will turn left, and the ultrasonic sensor's servo will turn right. We use the ultrasonic sensor to determine the distance between the robot and the wall.
+Last year, our design was based entirely on Lego. This year we decided to up our game and 3d print the whole thing with ABS and PLA plastic filament reinforced with metal parts and some Lego.
 
-Round 1 - 
 
-In the second clip, you will see that it will be similar to the first clip, but with the addition of obstacle management. In obstacle management, we will use the Pixy camera for detection. If the camera detects a green-colored block, it will turn left to avoid the block. However, if it sees a red-colored block, it will turn right to avoid the block.
 
-Last Round - 
+
