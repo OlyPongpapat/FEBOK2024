@@ -1,4 +1,4 @@
-# ${\color{magenta} WELCOME \space \color{magenta}TO \space \color{blue}OUR\space \color{blue} DOCUMENT}$
+# WELCOME TO OUR DOCUMENT
   
 ### $${\color{blue} WE \space ARE \space TEAM \space \color{orange} YBR-BOK}$$
 
