@@ -1,6 +1,6 @@
-# /WELCOME TO OUR DOCUMENT/
+# **WELCOME TO OUR DOCUMENT**
   
-### $${\color{blue} WE \space ARE \space TEAM \space \color{orange} YBR-BOK}$$
+### ***WE ARE TEAM YBR-BOK***
 
 <p align="center">
   <img src="https://ybrobot.club/image/YB%20Robot%20logo.png" width="200"/>
