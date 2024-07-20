@@ -1,4 +1,4 @@
-# $${\color{magenta} WELCOME \space \color{blue}TO \space \color{magenta}OUR\space \color{blue} DOCUMENT}$$
+# $${\color{magenta} WELCOME \space \color{magenta}TO \space \color{blue}OUR\space \color{blue} DOCUMENT}$$
   
 ### $${\color{cyan} WE \space ARE \space TEAM \space \color{orange} YBR-BOK}$$
 
@@ -12,8 +12,8 @@ $${\color{pink} by \space Yothinburana \space School}$$
 
 ### $${Our \space team\space has\space three\space members.}$$
 
-$Main \space Programmer: Pawit \space Nateenantasawasd \space (Book)$
+$${\color{blue}Main \space Programmer: \space Pawit \space Nateenantasawasd \space (Book)}$$
 
-$Mechanic: Pongpapat \space Putongkam \space (O'ly)$
+$${\color{orange}Mechanic: \space Pongpapat \space Putongkam \space (O'ly)}$$
 
-$Support: Thanyawut \space Krittikanon \space (Kaopun)$
+$${\color{pink}Support: \space Thanyawut \space Krittikanon \space (Kaopun)}$$
