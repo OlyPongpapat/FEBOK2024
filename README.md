@@ -19,4 +19,7 @@ $${\color{orange}Mechanic: \space Pongpapat \space Putongkam \space (O'ly)}$$
 $${\color{pink}Support: \space Thanyawut \space Krittikanon \space (Kaopun)}$$
 
 
-Hello, we are team YBR-BOK.
+Hi!!!!!!, we are team YBR-BOK. We are a team from Yothinburana School in Bangkok, Thailand. Our team comprise of 3 members; Pawit Nateenantasawasd(Book), Pongpapat Putongkam(O'ly), and Thanyawut Krittikanon(Kaopun).
+For the past 4 years, we have been good friends, classmates, and teammates. Last year, our first time competing in this WRO category, we got lucky and had a chance to compete in the international round. But we are not careful enough, our rookie mistake gets us only in 8th place. This year we hope to get one more chance before the regulations change to redeem ourselves.
+
+
