@@ -28,7 +28,7 @@ Support: Thanyawut Krittikanon
 
 
 
-# $${\color{aqua}Youtube \space Links.}$$
+# **Youtube Links.**
 
 In the first clip is a robot walking, and when it detects a red line, it will turn right. Then, the ultrasonic sensor's servo will turn left. However, if it encounters a blue line, it will turn left, and the ultrasonic sensor's servo will turn right. We use the ultrasonic sensor to determine the distance between the robot and the wall.
 
