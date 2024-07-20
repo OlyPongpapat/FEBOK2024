@@ -17,3 +17,5 @@ $${\color{blue}Main \space Programmer: \space Pawit \space Nateenantasawasd \spa
 $${\color{orange}Mechanic: \space Pongpapat \space Putongkam \space (O'ly)}$$
 
 $${\color{pink}Support: \space Thanyawut \space Krittikanon \space (Kaopun)}$$
+
+We are all classmates and good friends at Yothinburana School in Bangkok, Thailand. This is our second year participating in this competition. Last year, two of us had a chance to compete in the international round,
