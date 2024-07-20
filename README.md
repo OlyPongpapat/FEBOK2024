@@ -6,7 +6,7 @@
   <img src="https://ybrobot.club/image/YB%20Robot%20logo.png" width="200"/>
 </p>
 
-$${\color{pink} by \space Yothinburana \space School}$$
+ **by Yothinburana School**
 
 # $${\color{aqua}About \space Us.}$$
 
