@@ -10,7 +10,7 @@
 
 # **About Us.**
 
-### **Our team has three members.**
+### **This is our team.**
 
 
 
