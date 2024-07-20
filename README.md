@@ -2,10 +2,10 @@
   
 ### $${\color{lightblue} WE \space ARE \space TEAM \space \color{orange} YBR-BOK}$$
 
-$${\color{pink} by \space Yothinburana \space School}$$
-
 <p align="center">
   <img src="https://ybrobot.club/image/YB%20Robot%20logo.png" width="200"/>
+
+$${\color{pink} by \space Yothinburana \space School}$$
 
 # ${\color{aqua}About \space Us.}$
 
