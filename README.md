@@ -12,11 +12,11 @@
 
 ### **Our team has three members.**
 
-$${\color{blue}Main \space Programmer: \space Pawit \space Nateenantasawasd \space (Book)}$$
+Programmer: Pawit Nateenantasawasd 
 
-$${\color{orange}Mechanic: \space Pongpapat \space Putongkam \space (O'ly)}$$
+Mechanic: Pongpapat Putongkam 
 
-$${\color{pink}Support: \space Thanyawut \space Krittikanon \space (Kaopun)}$$
+Support: Thanyawut Krittikanon 
 
 
   We are team YBR-BOK. We are a team from Yothinburana School in Bangkok, Thailand. Our team is comprised of 3 members; Pawit Nateenantasawasd, Pongpapat Putongkam, and Thanyawut Krittikanon.
