@@ -1,12 +1,5 @@
-# <center> LDC </center>
-
-## title title title
-
-### <center> GRANT </center> 
-**blablablablabalbalbalab** 
-
-
-# <p align="center">
+ <p align="center">
+   
 # $${\color{magenta} WELCOME \space \color{magenta}TO \space \color{blue}OUR\space \color{blue} DOCUMENT}$$
   
 ### $${\color{lightblue} WE \space ARE \space TEAM \space \color{orange} YBR-BOK}$$
