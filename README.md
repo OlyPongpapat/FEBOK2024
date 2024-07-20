@@ -11,11 +11,11 @@
 # **About Us.**
 
 ### **Our team has three members.**
-
+<p align="center">
 Programmer: Pawit Nateenantasawasd 
-
+<p align="center">
 Mechanic: Pongpapat Putongkam 
-
+<p align="center">
 Support: Thanyawut Krittikanon 
 
 
