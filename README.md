@@ -31,7 +31,7 @@ Support: Thanyawut Krittikanon
 # **Part 1: ROBTO DESIGN**
 
 Last year, our design was based entirely on Lego. This year we decided to up our game and 3d print the whole thing with ABS and PLA plastic filament reinforced with metal parts and some Lego. Using 3d printed parts allows more flexibility to be implemented and makes it easy to acquire spare parts for an emergency.
-
+Even with all of that, we will still use Lego parts to connect in a very precise area.
 
 
 
