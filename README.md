@@ -47,11 +47,11 @@ Even with all of that, we will still use Lego parts to connect in a very precise
 <br>
 | Specification        | Description                  |
 |----------------------|------------------------|
-| Category             | LEGO Parts             |
-| Subcategory          | Electrical              |
-| Theme                | LEGO Power Functions  |
+| Category             | Electric Motor             |
+| Subcategory          | Power Functions             |
+| Theme                | Technic™               |
 | Brand                | LEGO                   |
 | Color                | Light Bluish Gray      |
 | Released in          | 2012                   |
 | Weight               | 45 grams               |
-| Dimensions (LxWxH)  | 7 x 4 x 3 studs        |
+| Dimensions (LxWxH)  | 5.6 x 2.5 x 3 cm       |
