@@ -54,3 +54,5 @@ Even with all of that, we will still use Lego parts to connect in a very precise
 | Released in          | 2012                   |
 | Weight               | 45 grams               |
 | Dimensions (LxWxH)  | 5.6 x 2.5 x 3 cm       |
+
+The LEGO Power Functions L-Motor (88003) is favored for its compact size, quiet operation, and energy efficiency, making it ideal for integrating into intricate LEGO builds without noise concerns. Its cost-effectiveness and reliable performance further enhance its appeal, providing a balanced option for powering a variety of LEGO creations effectively. The motor comes with a dedicated port for Lego. So, we modified it to make it able to connect to the board.
