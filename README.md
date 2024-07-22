@@ -35,3 +35,4 @@ Even with all of that, we will still use Lego parts to connect in a very precise
 
 
 
+# **Parts of our ROBOT**
