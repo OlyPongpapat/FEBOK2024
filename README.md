@@ -36,3 +36,20 @@ Even with all of that, we will still use Lego parts to connect in a very precise
 
 
 # **Parts of our ROBOT**
+
+<br>
+
+- **Driving Motor** ( Power Functions L-Motor )
+
+  <img src="https://github.com/OlyPongpapat/Future-Engineer-Zenith/assets/146799155/090f0240-b039-4335-a869-1769695a7ace"  width="400"/>  <img src="https://github.com/OlyPongpapat/Future-Engineer-Zenith/assets/146799155/b6fe03de-5aed-4876-8065-6b62df5169cd" width="250"/><br>
+<br>
+| Specification        | Description                  |
+|----------------------|------------------------|
+| Category             | LEGO Parts             |
+| Subcategory          | Electrical              |
+| Theme                | LEGO Power Functions  |
+| Brand                | LEGO                   |
+| Color                | Light Bluish Gray      |
+| Released in          | 2012                   |
+| Weight               | 45 grams               |
+| Dimensions (LxWxH)  | 7 x 4 x 3 studs        |
