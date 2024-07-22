@@ -1,4 +1,4 @@
-# **WELCOME TO OUR DOCUMENT**
+![Team Photo](https://github.com/user-attachments/assets/f8217ff9-58b3-4146-9f6d-4f5ccaff564f)![Team Photo](https://github.com/user-attachments/assets/abbf6d09-e208-4f8b-aef1-c39f2df20146)# **WELCOME TO OUR DOCUMENT**
   
 ### ***WE ARE TEAM YBR-BOK***
 
@@ -17,6 +17,10 @@
 
   We are team YBR-BOK. We are a team from Yothinburana School in Bangkok, Thailand. Our team is comprised of 3 members; Pawit Nateenantasawasd, Pongpapat Putongkam, and Thanyawut Krittikanon.
 For the past 4 years, we have been good friends, classmates, and teammates. Last year, our first time competing in this WRO category, we got lucky and had a chance to compete in the international round. But we are not careful enough, our rookie mistake gets us only in 8th place. This year we hope to get one more chance before the regulations change to redeem ourselves.
+
+<p align="center">
+![Team Photo](https://github.com/user-attachments/assets/65f2ff14-d5d5-4a3d-a66f-591ff5962046)
+
 
   Our team has 3 major positions. Firstly, Pawit Nateenantasawasd. He  is the programmer of our team. He is quite introverted so he can focus for a very long time. On the other hand, Pongpapat Putongkam. He has a very short attention span, so he could come up with new ideas easily. He is the designer and builder of our robot. Lastly, Thanyawut Krittikanon. He is at the best of both worlds. He can program and design, so he is a supporter of the team. Our team name is YBR-BOK. 'YBR' stands for 'Yothinburana Robot Club', and 'BOK' comes from our nickname 'Book, O'ly, Kaopun'.
 
