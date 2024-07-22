@@ -3,7 +3,7 @@
 ### ***WE ARE TEAM YBR-BOK***
 
 <p align="center">
-  <img src="https://ybrobot.club/image/YB%20Robot%20logo.png" width="200"/>
+  <img src="https://ybrobot.club/image/YB%20Robot%20logo.png" width="300"/>
 </p>
 <p align="center">
  by Yothinburana School
