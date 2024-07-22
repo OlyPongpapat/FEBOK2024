@@ -13,20 +13,16 @@
 ### **This is our team.**
 
 
-
-
   We are team YBR-BOK. We are a team from Yothinburana School in Bangkok, Thailand. Our team is comprised of 3 members; Pawit Nateenantasawasd, Pongpapat Putongkam, and Thanyawut Krittikanon.
 For the past 4 years, we have been good friends, classmates, and teammates. Last year, our first time competing in this WRO category, we got lucky and had a chance to compete in the international round. But we are not careful enough, our rookie mistake gets us only in 8th place. This year we hope to get one more chance before the regulations change to redeem ourselves.
 
 <p align="center">
     <img src="https://github.com/user-attachments/assets/0cc32271-a7d0-4db4-8669-6ef6ca3a210b"/>
 </p>
-### **Programmer: **
-Pawit Nateenantasawasd </p>
-### **Mechanic: **
-Pongpapat Putongkam </p>
-### **Support: **
-Thanyawut Krittikanon </p>
+
+Programmer: Pawit Nateenantasawasd </p>
+Mechanic: Pongpapat Putongkam </p>
+Support: Thanyawut Krittikanon </p>
 
 </p>
 
