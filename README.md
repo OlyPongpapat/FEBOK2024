@@ -1,4 +1,4 @@
-![Team Photo](https://github.com/user-attachments/assets/f8217ff9-58b3-4146-9f6d-4f5ccaff564f)![Team Photo](https://github.com/user-attachments/assets/abbf6d09-e208-4f8b-aef1-c39f2df20146)# **WELCOME TO OUR DOCUMENT**
+# **WELCOME TO OUR DOCUMENT**
   
 ### ***WE ARE TEAM YBR-BOK***
 
