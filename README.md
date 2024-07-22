@@ -21,15 +21,13 @@ For the past 4 years, we have been good friends, classmates, and teammates. Last
 <p align="center">
     <img src="https://github.com/user-attachments/assets/0cc32271-a7d0-4db4-8669-6ef6ca3a210b"/>
 </p>
-
-  Our team has 3 major positions. Firstly, Pawit Nateenantasawasd. He  is the programmer of our team. He is quite introverted so he can focus for a very long time. On the other hand, Pongpapat Putongkam. He has a very short attention span, so he could come up with new ideas easily. He is the designer and builder of our robot. Lastly, Thanyawut Krittikanon. He is at the best of both worlds. He can program and design, so he is a supporter of the team. Our team name is YBR-BOK. 'YBR' stands for 'Yothinburana Robot Club', and 'BOK' comes from our nickname 'Book, O'ly, Kaopun'.
-
 Programmer: Pawit Nateenantasawasd 
-
+</p>
 Mechanic: Pongpapat Putongkam 
-
+</p>
 Support: Thanyawut Krittikanon 
 
+  Our team has 3 major positions. Firstly, Pawit Nateenantasawasd (the middle person). He is the programmer of our team. He is quite introverted so he can focus for a very long time. On the other hand, Pongpapat Putongkam (the left person). He has a very short attention span, so he could come up with new ideas easily. He is the designer and builder of our robot. Lastly, Thanyawut Krittikanon (the right person). He is at the best of both worlds. He can program and design, so he is a supporter of the team. Our team name is YBR-BOK. 'YBR' stands for 'Yothinburana Robot Club', and 'BOK' comes from our nickname 'Book, O'ly, Kaopun'.
 
 
 # **Part 1: ROBTO DESIGN**
