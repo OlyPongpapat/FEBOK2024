@@ -19,7 +19,7 @@
 For the past 4 years, we have been good friends, classmates, and teammates. Last year, our first time competing in this WRO category, we got lucky and had a chance to compete in the international round. But we are not careful enough, our rookie mistake gets us only in 8th place. This year we hope to get one more chance before the regulations change to redeem ourselves.
 
 <p align="center">
-    <img src="![Team Photo](https://github.com/user-attachments/assets/0cc32271-a7d0-4db4-8669-6ef6ca3a210b)"/>
+    <img src="https://github.com/user-attachments/assets/0cc32271-a7d0-4db4-8669-6ef6ca3a210b"/>
 </p>
 
   Our team has 3 major positions. Firstly, Pawit Nateenantasawasd. He  is the programmer of our team. He is quite introverted so he can focus for a very long time. On the other hand, Pongpapat Putongkam. He has a very short attention span, so he could come up with new ideas easily. He is the designer and builder of our robot. Lastly, Thanyawut Krittikanon. He is at the best of both worlds. He can program and design, so he is a supporter of the team. Our team name is YBR-BOK. 'YBR' stands for 'Yothinburana Robot Club', and 'BOK' comes from our nickname 'Book, O'ly, Kaopun'.
@@ -39,7 +39,7 @@ Even with all of that, we will still use Lego parts to connect in a very precise
 
 
 
-# **Parts of our ROBOT**
+## **Parts of our ROBOT**
 
 <br>
 
