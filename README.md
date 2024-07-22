@@ -21,9 +21,12 @@ For the past 4 years, we have been good friends, classmates, and teammates. Last
 <p align="center">
     <img src="https://github.com/user-attachments/assets/0cc32271-a7d0-4db4-8669-6ef6ca3a210b"/>
 </p>
-Programmer: Pawit Nateenantasawasd </p>
-Mechanic: Pongpapat Putongkam </p>
-Support: Thanyawut Krittikanon </p>
+### **Programmer: **
+Pawit Nateenantasawasd </p>
+### **Mechanic: **
+Pongpapat Putongkam </p>
+### **Support: **
+Thanyawut Krittikanon </p>
 
 </p>
 
