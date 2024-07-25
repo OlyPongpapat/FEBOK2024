@@ -61,7 +61,7 @@ It's a popular microcontroller board based on the ATmega2560 processor, featurin
 
 <img src="- **Board** - Arduino Mega 2560 REV3
 
-<img src="https://github.com/user-attachments/assets/818da67a-a471-4aec-b4ee-9db775fbeeff" width="400"/><br>
+<img src="https://github.com/user-attachments/assets/454be0c1-7d74-458e-b82a-f914ec6e9acd" width="400"/><br>
 <br>
 | Specification        | Description                  |
 |----------------------|------------------------|
