@@ -57,6 +57,8 @@ This board has 54 Digital I/O pins, 16 Analog Input Pins, 4 UARTs, and 1 I2C. Th
 
 - **Driving Motor** ( Power Functions L-Motor )
 
+<br>
+
 <img src="https://github.com/OlyPongpapat/Future-Engineer-Zenith/assets/146799155/090f0240-b039-4335-a869-1769695a7ace"  width="400"/>  <img src="https://github.com/OlyPongpapat/Future-Engineer-Zenith/assets/146799155/b6fe03de-5aed-4876-8065-6b62df5169cd" width="250"/><br>
 <br>
 | Specification        | Description                  |
