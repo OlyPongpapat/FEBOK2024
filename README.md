@@ -1,4 +1,4 @@
-# **WELCOME TO OUR DOCUMENT**
+![image](https://github.com/user-attachments/assets/3acd8779-c74a-4092-91eb-2659668a92e0)# **WELCOME TO OUR DOCUMENT**
   
 ### ***WE ARE TEAM YBR-BOK***
 
@@ -39,6 +39,11 @@ Even with all of that, we will still use Lego parts to connect in a very precise
 ## **Parts of our ROBOT**
 
 <br>
+
+- **Board** - Arduino Mega 2560 REV3
+
+<img src=![image](https://github.com/user-attachments/assets/818da67a-a471-4aec-b4ee-9db775fbeeff)
+
 
 - **Driving Motor** ( Power Functions L-Motor )
 
