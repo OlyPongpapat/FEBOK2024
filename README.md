@@ -59,20 +59,9 @@ It's a popular microcontroller board based on the ATmega2560 processor, featurin
 
 - **Motor Driver Shield** - L298P-Twin V1.1 (By DF ROBOT)
 
-<img src="- **Board** - Arduino Mega 2560 REV3
-
 <img src="https://github.com/user-attachments/assets/454be0c1-7d74-458e-b82a-f914ec6e9acd" width="400"/><br>
 <br>
-| Specification        | Description                  |
-|----------------------|------------------------|
-| Microcontroller      | ATmega2560 (8-bit)     |
-| Clock Speed          | 16 MHz                 |
-| Flash memory capacity| 256 KB                 |
-| Operating Voltage    | 5 V                    |
-| Color                | Royal blue             |
-| Released in          | 2012                   |
-| Weight               | 37 grams               |
-| Dimensions           | 101.5mm x 53.3mm       |
+
 
 It's a popular microcontroller board based on the ATmega2560 processor, featuring a large number of digital and analog I/O pins, making it suitable for complex projects that require a lot of inputs and outputs like Future Engineer. Having a lot of ports get rid of the problem that we do not have enough ports to connect 'OpenMV camera' while using 'Gyro'. This is why we trust and select Arduino Mega 2560 REV3." width="400"/><br>
 <br>
