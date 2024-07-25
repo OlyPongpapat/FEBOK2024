@@ -41,7 +41,19 @@ Even with all of that, we will still use Lego parts to connect in a very precise
 - **Board** - Arduino Mega 2560 REV3
 
 <img src="https://github.com/user-attachments/assets/818da67a-a471-4aec-b4ee-9db775fbeeff" width="400"/><br>
+<br>
+| Specification        | Description                  |
+|----------------------|------------------------|
+| Microcontroller      | ATmega2560 (8-bit)     |
+| Clock Speed          | 16 MHz                 |
+| Flash memory capacity| 256 KB                 |
+| Operating Voltage    | 5 V                    |
+| Color                | Royal blue             |
+| Released in          | 2012                   |
+| Weight               | 37 grams               |
+| Dimensions           | 101.5mm x 53.3mm       |
 
+This board has 54 Digital I/O pins, 16 Analog Input Pins, 4 UARTs, and 1 I2C. This get rid of the problem that we do not have enough ports to connect 'OpenMV camera' while using 'Gyro'.
 
 - **Driving Motor** ( Power Functions L-Motor )
 
