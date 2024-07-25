@@ -53,11 +53,11 @@ Even with all of that, we will still use Lego parts to connect in a very precise
 | Weight               | 37 grams               |
 | Dimensions           | 101.5mm x 53.3mm       |
 
-This board has 54 Digital I/O pins, 16 Analog Input Pins, 4 UARTs, and 1 I2C. This get rid of the problem that we do not have enough ports to connect 'OpenMV camera' while using 'Gyro'.
-
-- **Driving Motor** ( Power Functions L-Motor )
+It's a popular microcontroller board based on the ATmega2560 processor, featuring a large number of digital and analog I/O pins, making it suitable for complex projects that require a lot of inputs and outputs like Future Engineer. Having a lot of ports get rid of the problem that we do not have enough ports to connect 'OpenMV camera' while using 'Gyro'. This is why we trust and select Arduino Mega 2560 REV3.
 
 <br>
+
+- **Driving Motor** ( Power Functions L-Motor )
 
 <img src="https://github.com/OlyPongpapat/Future-Engineer-Zenith/assets/146799155/090f0240-b039-4335-a869-1769695a7ace"  width="400"/>  <img src="https://github.com/OlyPongpapat/Future-Engineer-Zenith/assets/146799155/b6fe03de-5aed-4876-8065-6b62df5169cd" width="250"/><br>
 <br>
