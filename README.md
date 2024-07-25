@@ -40,7 +40,7 @@ Even with all of that, we will still use Lego parts to connect in a very precise
 
 - **Board** - Arduino Mega 2560 REV3
 
-![image](https://github.com/user-attachments/assets/818da67a-a471-4aec-b4ee-9db775fbeeff) width="400" <br>
+<img src="https://github.com/user-attachments/assets/818da67a-a471-4aec-b4ee-9db775fbeeff" width="400"/><br>
 
 
 - **Driving Motor** ( Power Functions L-Motor )
