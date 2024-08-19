@@ -69,13 +69,9 @@ It's a popular microcontroller board based on the ATmega2560 processor, featurin
 
 <br>
 
-- **Motor Driver Shield** - IO Expansion Shield V7.1 (By DF ROBOT)
+- **Motor Driver Shield** - IO Sensor Shield Due (By DF ROBOT)
 
 <img src="https://dfimg.dfrobot.com/data/DFR0165/20140710/_DSC0295.jpg" width="400"/><br>
-<br>
-
-
-It's a popular microcontroller board based on the ATmega2560 processor, featuring a large number of digital and analog I/O pins, making it suitable for complex projects that require a lot of inputs and outputs like Future Engineer. Having a lot of ports get rid of the problem that we do not have enough ports to connect 'OpenMV camera' while using 'Gyro'. This is why we trust and select Arduino Mega 2560 REV3." width="400"/><br>
 <br>
 | Specification        | Description                  |
 |----------------------|------------------------|
@@ -95,10 +91,6 @@ It's a popular microcontroller board based on the ATmega2560 processor, featurin
 - **Motor Driver Shield** - IO Expansion Shield V7.1 (By DF ROBOT)
 
 <img src="https://github.com/user-attachments/assets/454be0c1-7d74-458e-b82a-f914ec6e9acd" width="400"/><br>
-<br>
-
-
-It's a popular microcontroller board based on the ATmega2560 processor, featuring a large number of digital and analog I/O pins, making it suitable for complex projects that require a lot of inputs and outputs like Future Engineer. Having a lot of ports get rid of the problem that we do not have enough ports to connect 'OpenMV camera' while using 'Gyro'. This is why we trust and select Arduino Mega 2560 REV3." width="400"/><br>
 <br>
 | Specification        | Description                  |
 |----------------------|------------------------|
@@ -131,3 +123,104 @@ It's a popular microcontroller board based on the ATmega2560 processor, featurin
 | Dimensions (LxWxH)  | 5.6 x 2.5 x 3 cm       |
 
 The LEGO Power Functions L-Motor (88003) is favored for its compact size, quiet operation, and energy efficiency, making it ideal for integrating into intricate LEGO builds without noise concerns. Its cost-effectiveness and reliable performance further enhance its appeal, providing a balanced option for powering a variety of LEGO creations effectively. The motor comes with a dedicated port for Lego. So, we modified it to make it able to connect to the board.
+
+<br>
+
+- **Board** - Arduino Mega 2560 REV3
+
+<img src="http://cdn.shopify.com/s/files/1/0803/9211/products/web-new-cam-v3-angle_grande.jpg?v=1480645085" width="400"/><br>
+<br>
+| Specification        | Description                  |
+|----------------------|------------------------|
+| Microcontroller      | ATmega2560 (8-bit)     |
+| Clock Speed          | 16 MHz                 |
+| Flash memory capacity| 256 KB                 |
+| Operating Voltage    | 5 V                    |
+| Color                | Royal blue             |
+| Released in          | 2012                   |
+| Weight               | 37 grams               |
+| Dimensions           | 101.5mm x 53.3mm       |
+
+It's a popular microcontroller board based on the ATmega2560 processor, featuring a large number of digital and analog I/O pins, making it suitable for complex projects that require a lot of inputs and outputs like Future Engineer. Having a lot of ports get rid of the problem that we do not have enough ports to connect 'OpenMV camera' while using 'Gyro'. This is why we trust and select Arduino Mega 2560 REV3.
+
+<br>
+
+- **Board** - Arduino Mega 2560 REV3
+
+<img src="https://wiki.amperka.ru/_media/products:openmv-lcd-shield:openmv-lcd-shield-install.2.jpg" width="250"/> <img src="http://imgmgr.banggood.com/images/oaupload/banggood/images/EC/B8/d7fdd717-16ac-4de0-b126-f83d9fcf89c4.JPG" width="287"/><br>
+<br>
+| Specification        | Description                  |
+|----------------------|------------------------|
+| Microcontroller      | ATmega2560 (8-bit)     |
+| Clock Speed          | 16 MHz                 |
+| Flash memory capacity| 256 KB                 |
+| Operating Voltage    | 5 V                    |
+| Color                | Royal blue             |
+| Released in          | 2012                   |
+| Weight               | 37 grams               |
+| Dimensions           | 101.5mm x 53.3mm       |
+
+It's a popular microcontroller board based on the ATmega2560 processor, featuring a large number of digital and analog I/O pins, making it suitable for complex projects that require a lot of inputs and outputs like Future Engineer. Having a lot of ports get rid of the problem that we do not have enough ports to connect 'OpenMV camera' while using 'Gyro'. This is why we trust and select Arduino Mega 2560 REV3.
+
+<br>
+
+- **Board** - Arduino Mega 2560 REV3
+
+<img src="https://thepihut.com/cdn/shop/products/geekservo-building-brick-180-rotation-block-servo-geekservo-104134-28717055836355_1500x.jpg?v=1646531299" width="400"/><br>
+<br>
+| Specification        | Description                  |
+|----------------------|------------------------|
+| Microcontroller      | ATmega2560 (8-bit)     |
+| Clock Speed          | 16 MHz                 |
+| Flash memory capacity| 256 KB                 |
+| Operating Voltage    | 5 V                    |
+| Color                | Royal blue             |
+| Released in          | 2012                   |
+| Weight               | 37 grams               |
+| Dimensions           | 101.5mm x 53.3mm       |
+
+It's a popular microcontroller board based on the ATmega2560 processor, featuring a large number of digital and analog I/O pins, making it suitable for complex projects that require a lot of inputs and outputs like Future Engineer. Having a lot of ports get rid of the problem that we do not have enough ports to connect 'OpenMV camera' while using 'Gyro'. This is why we trust and select Arduino Mega 2560 REV3.
+
+<br>
+
+- **Board** - Arduino Mega 2560 REV3
+
+<img src="https://dfimg.dfrobot.com/store/data/SEN0307/SEN0307.jpg?imageView2/1/w/564/h/376" width="400"/><br>
+<br>
+| Specification        | Description                  |
+|----------------------|------------------------|
+| Microcontroller      | ATmega2560 (8-bit)     |
+| Clock Speed          | 16 MHz                 |
+| Flash memory capacity| 256 KB                 |
+| Operating Voltage    | 5 V                    |
+| Color                | Royal blue             |
+| Released in          | 2012                   |
+| Weight               | 37 grams               |
+| Dimensions           | 101.5mm x 53.3mm       |
+
+It's a popular microcontroller board based on the ATmega2560 processor, featuring a large number of digital and analog I/O pins, making it suitable for complex projects that require a lot of inputs and outputs like Future Engineer. Having a lot of ports get rid of the problem that we do not have enough ports to connect 'OpenMV camera' while using 'Gyro'. This is why we trust and select Arduino Mega 2560 REV3.
+
+<br>
+
+- **ZX-Switch01** - We use **ZX-Switch01** to make it easy to start the program.
+
+<img src="https://inex.co.th/home/wp-content/uploads/2020/07/zx-switch01.jpg" width="300"/><br>
+
+Additional Details:<br>
+When the switch is pressed, the DATA pin will be in logic "1" from R2, which is connected to a pull-up. When the switch is pressed, the DATA pin will be "0" because the switch creates a short circuit to ground. Current flows through the LED and R1, causing the LED to light up brightly. Additionally, the DATA pin can also serve as an input, allowing you to control the LED's on and off state as needed.
+
+<br>
+
+- **Step Down** - We use **Step Down** to display the battery voltage and to make it deliver the power at the set level.
+
+<img src="https://gd.lnwfile.com/_/gd/_raw/eb/vw/s0.jpg" width="300"/><br>
+
+| Specification              | Description              |
+|----------------------------|--------------------------|
+| Input Voltage              | 4-38 VDC                 |
+| Output Voltage             | 1.25-36 VDC              |
+| Output Current Maximum     | 5A                       |
+| Chipset                    | XL4015E1                 |
+| Dimension (ขนาด)         | 39mm x 66mm x 18mm (WxLxH) |
+
+<br>
