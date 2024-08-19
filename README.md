@@ -183,31 +183,40 @@ It's a popular microcontroller board based on the ATmega2560 processor, featurin
 
 <br>
 
-- **Board** - Arduino Mega 2560 REV3
+- **Ultrasonic Sensor** ( SEN0307 ) to measure the distance between the robot and the walls
 
-<img src="https://dfimg.dfrobot.com/store/data/SEN0307/SEN0307.jpg?imageView2/1/w/564/h/376" width="400"/><br>
-<br>
-| Specification        | Description                  |
-|----------------------|------------------------|
-| Microcontroller      | ATmega2560 (8-bit)     |
-| Clock Speed          | 16 MHz                 |
-| Flash memory capacity| 256 KB                 |
-| Operating Voltage    | 5 V                    |
-| Color                | Royal blue             |
-| Released in          | 2012                   |
-| Weight               | 37 grams               |
-| Dimensions           | 101.5mm x 53.3mm       |
+<img src="https://dfimg.dfrobot.com/store/data/SEN0307/SEN0307.jpg?imageView2/1/w/564/h/376" width="400"/>
 
-It's a popular microcontroller board based on the ATmega2560 processor, featuring a large number of digital and analog I/O pins, making it suitable for complex projects that require a lot of inputs and outputs like Future Engineer. Having a lot of ports get rid of the problem that we do not have enough ports to connect 'OpenMV camera' while using 'Gyro'. This is why we trust and select Arduino Mega 2560 REV3.
+An incredible sensor that comes with **built-in temperature compensation**, which can greatly reduce measurement error caused by over high/low temperature. It adopts **analog voltage output**, and provides accurate distance measurement within **2-500cm** with 1cm resolution and **±1% accuracy.**
 
 <br>
 
-- **ZX-Switch01** - We use **ZX-Switch01** to make it easy to start the program.
+- **Color Sensor** - We use **ZX-03** to detext the color of the field.
 
-<img src="https://inex.co.th/home/wp-content/uploads/2020/07/zx-switch01.jpg" width="300"/><br>
+<img src="https://inex.co.th/home/wp-content/uploads/2020/07/zx_03_tcrt.jpg" width="400"/>
 
-Additional Details:<br>
-When the switch is pressed, the DATA pin will be in logic "1" from R2, which is connected to a pull-up. When the switch is pressed, the DATA pin will be "0" because the switch creates a short circuit to ground. Current flows through the LED and R1, causing the LED to light up brightly. Additionally, the DATA pin can also serve as an input, allowing you to control the LED's on and off state as needed.
+<br>
+
+- **Gyro** - We use **GY-25** gyro to control the direction of our robot.
+
+<img src="https://inwfile.com/s-o/q6moq1.jpg" width="300"/><br>
+
+| Specification            | Description                        |
+|--------------------------|------------------------------------|
+| Chip                     | MPU-6050                            |
+| Electrical Voltage       | 3 - 5V                             |
+| Communication Modes      | Serial Communication (9600, 115200 Baud), I2C Communication  |
+| Dimensions               | 15.5mm x 11.5mm                   |
+| Pin Spacing              | 2.54mm                             |
+| Direct Data Output       | Raw Data                           |
+| Pitch Angle (Yaw)       | ± 180°                            |
+| Roll Angle (Roll)       | ± 180°                            |
+| Yaw Angle (Pitch)       | ± 180°                            |
+| Angular Resolution      | 0.01°                             |
+
+
+Dataset: http://mkpochtoi.ru/GY25_MANUAL_EN.pdf<br>
+Library: https://github.com/ElectronicCats/mpu6050
 
 <br>
 
@@ -224,3 +233,21 @@ When the switch is pressed, the DATA pin will be in logic "1" from R2, which is 
 | Dimension (ขนาด)         | 39mm x 66mm x 18mm (WxLxH) |
 
 <br>
+
+- **ZX-Switch01** - We use **ZX-Switch01** to make it easy to start the program.
+
+<img src="https://inex.co.th/home/wp-content/uploads/2020/07/zx-switch01.jpg" width="300"/><br>
+
+Additional Details:<br>
+When the switch is pressed, the DATA pin will be in logic "1" from R2, which is connected to a pull-up. When the switch is pressed, the DATA pin will be "0" because the switch creates a short circuit to ground. Current flows through the LED and R1, causing the LED to light up brightly. Additionally, the DATA pin can also serve as an input, allowing you to control the LED's on and off state as needed.
+
+<br>
+
+# **Part 2 : Programming**
+ 
+##📢 Setting up your Board and Arduino Software 
+<br>
+❗ Please Note that** ❗> We are using **Arduino Mega 2560 REV3** fIf you are to replicate our project and use some other board, there maybe some fixes you need to implement in the code provided in this repo.
+
+<br>
+
