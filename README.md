@@ -82,7 +82,7 @@ It's a popular microcontroller board based on the ATmega2560 processor, featurin
 
 - **Driving Motor** ( Power Functions L-Motor )
 
-<img src="https://github.com/OlyPongpapat/Future-Engineer-Zenith/assets/146799155/090f0240-b039-4335-a869-1769695a7ace"  width="400"/>  <img src="https://github.com/OlyPongpapat/Future-Engineer-Zenith/assets/146799155/b6fe03de-5aed-4876-8065-6b62df5169cd" width="250"/><br>
+<img src="[https://github.com/OlyPongpapat/Future-Engineer-Zenith/assets/146799155/090f0240-b039-4335-a869-1769695a7ace](https://technicbriks.com/wp-content/uploads/alternative-lego-l-motor-lite-1.png)"  width="400"/>  <img src="https://github.com/OlyPongpapat/Future-Engineer-Zenith/assets/146799155/b6fe03de-5aed-4876-8065-6b62df5169cd" width="250"/><br>
 <br>
 | Specification        | Description                  |
 |----------------------|------------------------|
