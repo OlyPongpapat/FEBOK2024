@@ -126,68 +126,53 @@ The LEGO Power Functions L-Motor (88003) is favored for its compact size, quiet 
 
 <br>
 
-- **Board** - Arduino Mega 2560 REV3
+- **Camera** - OpenMV
 
 <img src="http://cdn.shopify.com/s/files/1/0803/9211/products/web-new-cam-v3-angle_grande.jpg?v=1480645085" width="400"/><br>
 <br>
-| Specification        | Description                  |
-|----------------------|------------------------|
-| Microcontroller      | ATmega2560 (8-bit)     |
-| Clock Speed          | 16 MHz                 |
-| Flash memory capacity| 256 KB                 |
-| Operating Voltage    | 5 V                    |
-| Color                | Royal blue             |
-| Released in          | 2012                   |
-| Weight               | 37 grams               |
-| Dimensions           | 101.5mm x 53.3mm       |
-
-It's a popular microcontroller board based on the ATmega2560 processor, featuring a large number of digital and analog I/O pins, making it suitable for complex projects that require a lot of inputs and outputs like Future Engineer. Having a lot of ports get rid of the problem that we do not have enough ports to connect 'OpenMV camera' while using 'Gyro'. This is why we trust and select Arduino Mega 2560 REV3.
 
 <br>
 
-- **Board** - Arduino Mega 2560 REV3
+- **Camera Shield** - LCD Shield Rev 2
 
 <img src="https://wiki.amperka.ru/_media/products:openmv-lcd-shield:openmv-lcd-shield-install.2.jpg" width="250"/> <img src="http://imgmgr.banggood.com/images/oaupload/banggood/images/EC/B8/d7fdd717-16ac-4de0-b126-f83d9fcf89c4.JPG" width="287"/><br>
 <br>
-| Specification        | Description                  |
-|----------------------|------------------------|
-| Microcontroller      | ATmega2560 (8-bit)     |
-| Clock Speed          | 16 MHz                 |
-| Flash memory capacity| 256 KB                 |
-| Operating Voltage    | 5 V                    |
-| Color                | Royal blue             |
-| Released in          | 2012                   |
-| Weight               | 37 grams               |
-| Dimensions           | 101.5mm x 53.3mm       |
 
-It's a popular microcontroller board based on the ATmega2560 processor, featuring a large number of digital and analog I/O pins, making it suitable for complex projects that require a lot of inputs and outputs like Future Engineer. Having a lot of ports get rid of the problem that we do not have enough ports to connect 'OpenMV camera' while using 'Gyro'. This is why we trust and select Arduino Mega 2560 REV3.
 
 <br>
 
-- **Board** - Arduino Mega 2560 REV3
+- **Servo** ( GEEKSERVO-270 ) one for **steering** our robot and another for rotating **the ultrasonic sensor**
 
 <img src="https://thepihut.com/cdn/shop/products/geekservo-building-brick-180-rotation-block-servo-geekservo-104134-28717055836355_1500x.jpg?v=1646531299" width="400"/><br>
 <br>
-| Specification        | Description                  |
-|----------------------|------------------------|
-| Microcontroller      | ATmega2560 (8-bit)     |
-| Clock Speed          | 16 MHz                 |
-| Flash memory capacity| 256 KB                 |
-| Operating Voltage    | 5 V                    |
-| Color                | Royal blue             |
-| Released in          | 2012                   |
-| Weight               | 37 grams               |
-| Dimensions           | 101.5mm x 53.3mm       |
+| Specification          | Description            |
+|------------------------|------------------------|
+| Temperature Range      | -20 ℃ to 60 ℃         |
+| Operating Temperature  | -10 ℃ to 50 ℃         |
+| Electrical Voltage     | 4.8V ~ 6V (Servo) / 3V (Motor) |
 
-It's a popular microcontroller board based on the ATmega2560 processor, featuring a large number of digital and analog I/O pins, making it suitable for complex projects that require a lot of inputs and outputs like Future Engineer. Having a lot of ports get rid of the problem that we do not have enough ports to connect 'OpenMV camera' while using 'Gyro'. This is why we trust and select Arduino Mega 2560 REV3.
+
+We use the Geekservo 2kg 360 Degrees for steering the robot and an Ultrasonic Sensor for rotation. This servo is compatible with LEGO, simplifying and streamlining the robot's construction.
 
 <br>
 
 - **Ultrasonic Sensor** ( SEN0307 ) to measure the distance between the robot and the walls
 
-<img src="https://dfimg.dfrobot.com/store/data/SEN0307/SEN0307.jpg?imageView2/1/w/564/h/376" width="400"/>
+<img src="https://dfimg.dfrobot.com/store/data/SEN0307/SEN0307.jpg?imageView2/1/w/564/h/376" width="400"/><br>
+<br>
+| Specification          | Description            |
+|------------------------|------------------------|
+| Supply voltage         | 3.3 V to 5.5 V         |
+| Power consumption      | 20 mA                  |
+| Measurement range     | from 2 cm to 500 cm    |
+| Resolution             | 1 cm                   |
+| Accuracy               | 1%                     |
+| Frequency              | max. 30 Hz             |
+| Operating temperature  | -10°C to 70°C          |
+| Dimensions             | 47 x 22 mm             |
+| Distance calculation   | Distance = Vout (mV) x 520 / Vin (mV) |
 
-An incredible sensor that comes with **built-in temperature compensation**, which can greatly reduce measurement error caused by over high/low temperature. It adopts **analog voltage output**, and provides accurate distance measurement within **2-500cm** with 1cm resolution and **±1% accuracy.**
+An impressive sensor with **built-in temperature compensation**, which minimizes measurement errors due to extreme temperatures. It utilizes **analog voltage output** and offers precise distance measurements ranging from **2 to 500 cm** with a 1 cm resolution and **±1% accuracy**.
 
 <br>
 
@@ -220,8 +205,7 @@ Library: https://github.com/ElectronicCats/mpu6050
 
 <br>
 
-- **Step Down** - We use **Step Down** to display the battery voltage and to make it deliver the power at the set level.
-
+- **Step Down** - We use a **Step Down** converter to display the battery voltage and regulate the power to the desired level.
 <img src="https://gd.lnwfile.com/_/gd/_raw/eb/vw/s0.jpg" width="300"/><br>
 
 | Specification              | Description              |
@@ -230,16 +214,16 @@ Library: https://github.com/ElectronicCats/mpu6050
 | Output Voltage             | 1.25-36 VDC              |
 | Output Current Maximum     | 5A                       |
 | Chipset                    | XL4015E1                 |
-| Dimension (ขนาด)         | 39mm x 66mm x 18mm (WxLxH) |
+| Dimension         | 39mm x 66mm x 18mm (WxLxH) |
 
 <br>
 
-- **ZX-Switch01** - We use **ZX-Switch01** to make it easy to start the program.
+- **ZX-Switch01** - We use the **ZX-Switch01** to facilitate the program's initiation.
 
 <img src="https://inex.co.th/home/wp-content/uploads/2020/07/zx-switch01.jpg" width="300"/><br>
 
 Additional Details:<br>
-When the switch is pressed, the DATA pin will be in logic "1" from R2, which is connected to a pull-up. When the switch is pressed, the DATA pin will be "0" because the switch creates a short circuit to ground. Current flows through the LED and R1, causing the LED to light up brightly. Additionally, the DATA pin can also serve as an input, allowing you to control the LED's on and off state as needed.
+When the switch is pressed, the DATA pin will be at a logic "1" due to R2, which is connected as a pull-up resistor. Pressing the switch will pull the DATA pin to "0" by creating a short circuit to ground. This causes current to flow through the LED and R1, making the LED light up brightly. Additionally, the DATA pin can also function as an input, allowing you to control the LED's on and off state as needed.
 
 <br>
 
@@ -247,7 +231,7 @@ When the switch is pressed, the DATA pin will be in logic "1" from R2, which is 
  
 ##📢 Setting up your Board and Arduino Software 
 <br>
-❗ Please Note that** ❗> We are using **Arduino Mega 2560 REV3** fIf you are to replicate our project and use some other board, there maybe some fixes you need to implement in the code provided in this repo.
+❗ Please Note that** ❗> We are using the **Arduino Mega 2560 REV3**. If you choose to replicate our project with a different board, you may need to make some adjustments to the code provided in this repository.
 
 <br>
 
