@@ -26,6 +26,18 @@ Support: Thanyawut Krittikanon </p>
 
   Our team has 3 major positions. Firstly, Pawit Nateenantasawasd (the middle person). He is the programmer of our team. He is quite introverted so he can focus for a very long time. On the other hand, Pongpapat Putongkam (the left person). He has a very short attention span, so he could come up with new ideas easily. He is the designer and builder of our robot. Lastly, Thanyawut Krittikanon (the right person). He is at the best of both worlds. He can program and design, so he is a supporter of the team. Our team name is YBR-BOK. 'YBR' stands for 'Yothinburana Robot Club', and 'BOK' comes from our nickname 'Book, O'ly, Kaopun'.
 
+# Content
+`3DModels` This folder includes the 3D design of the vehicle and the rendered model of the vehicle.
+
+`Schemes` This folder contains one or more schematic diagrams in JPEG, PNG, or PDF format that depict the electromechanical components of the vehicle. These diagrams illustrate all the elements, including electronic components and motors, and show how they are interconnected.
+
+`Source Codes` This folder includes all programming used to participate in the WRO 2024 Future Engineers Category and all the programming flowcharts.
+
+`Team Photos` This folder includes photos of the team participating in the WRO 2024 Future Engineers Category.
+
+`Vehicle Photos` This folder contains photos of the vehicle from all perspectives, including side and bottom views.
+
+`video` This folder contains YouTube links that show how the robot operates to complete both missions.
 
 # **Part 1: ROBOT DESIGN**
 
@@ -57,7 +69,30 @@ It's a popular microcontroller board based on the ATmega2560 processor, featurin
 
 <br>
 
-- **Motor Driver Shield** - L298P-Twin V1.1 (By DF ROBOT)
+- **Motor Driver Shield** - IO Expansion Shield V7.1 (By DF ROBOT)
+
+<img src="https://dfimg.dfrobot.com/data/DFR0165/20140710/_DSC0295.jpg" width="400"/><br>
+<br>
+
+
+It's a popular microcontroller board based on the ATmega2560 processor, featuring a large number of digital and analog I/O pins, making it suitable for complex projects that require a lot of inputs and outputs like Future Engineer. Having a lot of ports get rid of the problem that we do not have enough ports to connect 'OpenMV camera' while using 'Gyro'. This is why we trust and select Arduino Mega 2560 REV3." width="400"/><br>
+<br>
+| Specification        | Description                  |
+|----------------------|------------------------|
+| Microcontroller      | ATmega2560 (8-bit)     |
+| Clock Speed          | 16 MHz                 |
+| Flash memory capacity| 256 KB                 |
+| Operating Voltage    | 5 V                    |
+| Color                | Royal blue             |
+| Released in          | 2012                   |
+| Weight               | 37 grams               |
+| Dimensions           | 101.5mm x 53.3mm       |
+
+It's a popular microcontroller board based on the ATmega2560 processor, featuring a large number of digital and analog I/O pins, making it suitable for complex projects that require a lot of inputs and outputs like Future Engineer. Having a lot of ports get rid of the problem that we do not have enough ports to connect 'OpenMV camera' while using 'Gyro'. This is why we trust and select Arduino Mega 2560 REV3.
+
+<br>
+
+- **Motor Driver Shield** - IO Expansion Shield V7.1 (By DF ROBOT)
 
 <img src="https://github.com/user-attachments/assets/454be0c1-7d74-458e-b82a-f914ec6e9acd" width="400"/><br>
 <br>
