@@ -127,13 +127,16 @@ The LEGO Power Functions L-Motor (88003) is favored for its compact size, quiet 
 <img src="http://cdn.shopify.com/s/files/1/0803/9211/products/web-new-cam-v3-angle_grande.jpg?v=1480645085" width="400"/><br>
 <br>
 
+We decided to use this camera instead of the Pixy2.1 due to its excellent visual performance, which allows it to accurately distinguish objects and colors.Additionally, we use this camera to measure the XYZ axes, calculate the center of objects, and further enhance color differentiation accuracy.
+
 <br>
 
-- **Camera Shield** - LCD Shield Rev 2
+- **Camera Shield** ( LCD Shield Rev 2 ) 
 
 <img src="https://wiki.amperka.ru/_media/products:openmv-lcd-shield:openmv-lcd-shield-install.2.jpg" width="250"/> <img src="http://imgmgr.banggood.com/images/oaupload/banggood/images/EC/B8/d7fdd717-16ac-4de0-b126-f83d9fcf89c4.JPG" width="287"/><br>
 <br>
 
+We added this component so that when we test the robot without connecting it to the computer, we can still identify any errors that occur.
 
 <br>
 
@@ -203,6 +206,7 @@ Library: https://github.com/ElectronicCats/mpu6050
 
 - **Step Down** - We use a **Step Down** converter to display the battery voltage and regulate the power to the desired level.
 <img src="https://gd.lnwfile.com/_/gd/_raw/eb/vw/s0.jpg" width="300"/><br>
+<br>
 
 | Specification              | Description              |
 |----------------------------|--------------------------|
