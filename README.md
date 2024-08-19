@@ -82,7 +82,7 @@ It's a popular microcontroller board based on the ATmega2560 processor, featurin
 | Color                | Royal blue             |
 | Released in          | 2012                   |
 | Weight               | 37 grams               |
-| Dimensions           | 101.5mm x 53.3mm       |
+| Dimensions           | 125 x 57 mm            |
 
 It's a popular microcontroller board based on the ATmega2560 processor, featuring a large number of digital and analog I/O pins, making it suitable for complex projects that require a lot of inputs and outputs like Future Engineer. Having a lot of ports get rid of the problem that we do not have enough ports to connect 'OpenMV camera' while using 'Gyro'. This is why we trust and select Arduino Mega 2560 REV3.
 
