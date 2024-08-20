@@ -69,7 +69,7 @@ It's a popular microcontroller board based on the ATmega2560 processor, featurin
 
 <br>
 
-- **Motor Driver Shield** - IO Sensor Shield Due (By DF ROBOT)
+- **Sensor Shield** - IO Sensor Shield Due (By DF ROBOT)
 
 <img src="https://dfimg.dfrobot.com/data/DFR0165/20140710/_DSC0295.jpg" width="400"/><br>
 <br>
@@ -175,7 +175,7 @@ An impressive sensor with **built-in temperature compensation**, which minimizes
 
 <br>
 
-- **Color Sensor** - We use **ZX-03** to detext the color of the field.
+Color Sensor - We use the Virus-III designed by Sopon and the ZX-03 designed by INEX to detect the field's colors. The red ZX-03 Reflector is used to detect the blue line, while the green Virus-III is used to detect the red line, allowing us to accurately measure color values on the field.
 
 <img src="https://inex.co.th/home/wp-content/uploads/2020/07/zx_03_tcrt.jpg" width="400"/>
 
