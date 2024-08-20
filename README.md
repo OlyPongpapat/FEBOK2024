@@ -71,7 +71,7 @@ It's a popular microcontroller board based on the ATmega2560 processor, featurin
 
 - **Sensor Shield** - IO Sensor Shield Due (By DF ROBOT)
 
-<img src="https://dfimg.dfrobot.com/data/DFR0165/20140710/_DSC0295.jpg" width="400"/><br>
+<img src="https://dfimg.dfrobot.com/data/DFR0165/20140710/_DSC0295.jpg" width="400"/><img src="https://github.com/ThanyawutII/Test/blob/main/Screenshot%202024-08-19%20233633.png" width="570"/><br>
 <br>
 | Specification        | Description                  |
 |----------------------|------------------------|
