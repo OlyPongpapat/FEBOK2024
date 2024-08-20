@@ -264,70 +264,51 @@ When the switch is pressed, the DATA pin will be at a logic "1" due to R2, which
 
 <be>
 
-  '''c
-  #include "Mapf.h"
-  #include "Servo.h"
-  #include <PID_v2.h>
-  
-  Servo myservo1;
-  Servo myservo2;
-  
-  '''
+  # Robot Control System
 
-At the top of the program. We're setting up our code for controlling two servos, myservo1 and myservo2, along with using a PID controller.
+This project is a basic setup for controlling a robot with two motors, two servos, and various sensors using an Arduino-compatible platform. The code leverages a PID controller for precise motor control, along with a servo to manage steering and an ultrasonic sensor for obstacle detection.
 
-'''c
+## Components
+
+- **Motors**: The robot is equipped with two motors. Each motor's speed and direction are controlled using specific pins defined in the code.
+- **Servos**: Two servos (`myservo1` and `myservo2`) are used, one for steering and another for positioning an ultrasonic sensor.
+- **PID Controller**: A PID controller is implemented to manage motor speeds for better control over the robot's movements.
+- **Sensors**: 
+  - **IMU/Compass**: Used for tracking the robot's yaw, roll, and pitch.
+  - **Ultrasonic Sensor**: Used for distance measurement to detect obstacles.
+  - **Light Sensors**: Red and green light sensors are used for detecting environmental conditions.
+  - **Button**: A button is used for user input to start or stop the robot.
+
+## Code Overview
+
+```cpp
+#include "Mapf.h"
+#include "Servo.h"
+#include <PID_v2.h>
+
+Servo myservo1;
+Servo myservo2;
+
 float pvYaw, pvRoll, pvPitch;
 uint8_t rxCnt = 0, rxBuf[8];
-'''
 
-pvYaw, pvRoll, pvPitch: These are floating-point variables meant to store the yaw, roll, and pitch values from the compass sensor or the IMU . These values represent the orientation of our robot.
-
-'''c
 const int E1Pin = 10;
 const int M1Pin = 12;
-'''
 
-E1Pin and E2Pin: Control the speed (enable pins) of the motors.
-
-'''c
 typedef struct {
   byte enPin;
   byte directionPin;
 } MotorContrl;
-'''
 
-A structure that groups together the enable pin (enPin) and the direction pin . This structure makes it easier to manage motor control in the code.
-
-'''c
 const int M1 = 0;
 const int MotorNum = 1;
-'''
-
-M1 represents the index for the first motor in the MotorPin array.
-MotorNum indicates the total number of motors, set to 1 
 
 const MotorContrl MotorPin[] = { {E1Pin, M1Pin}, {E2Pin, M2Pin} };
-
-MotorPin[]: An array of Motor Control structures that holds the pin configurations for two motors.
-The first motor uses E1Pin and M1Pin.
-The second motor uses E2Pin and M2Pin.
 
 int const STEER_SRV = 23;
 int const ULTRA_SRV = 16;
 
-STEER_SRV: Pin 23 is used to control the steering servo.
-ULTRA_SRV: Pin 16 is used to control the servo connected to the ultrasonic sensor.
-
 int const ULTRA_PIN = A9;
-
-ULTRA_PIN: Pin A9 is connected to the ultrasonic sensor, used for distance measurements.
-
 int const RED_SEN = A6;
 int const GEEN_SEN = A7;
-
-RED_SEN: Pin A6 is connected to the red light sensor.
-GEEN_SEN: Pin A7 is connected to the green light sensor.
-
 int const BUTTON = A8;
-BUTTON: Pin A8 is connected to a button, used for user input or starting/stopping the robot.
