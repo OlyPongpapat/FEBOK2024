@@ -164,7 +164,7 @@ We added this component so that when we test the robot without connecting it to 
 
 <br>
 
-- **Servo** ( GEEKSERVO-270 ) one for **steering** our robot and another for rotating **the ultrasonic sensor**
+- **Servo** ( GEEKSERVO-360 ) one for **steering** our robot and another for rotating **the ultrasonic sensor**
 
 <img src="https://thepihut.com/cdn/shop/products/geekservo-building-brick-180-rotation-block-servo-geekservo-104134-28717055836355_1500x.jpg?v=1646531299" width="400"/><br>
 <br>
