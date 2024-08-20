@@ -82,7 +82,7 @@ It's a popular microcontroller board based on the ATmega2560 processor, featurin
 | support               | most of the arduino shield               |
 | Dimensions           | 125 x 57 mm            |
 
-This shield is extra large and includes 3 Xbee slots, 1 microSD slot, Arduino shield headers to plugin most Arduino shields. It also includes a prototyping area and breakouts for Digital pins 14 to 53, Analog pins 6 to 15 and PWM pins 2 to 9. This shield can be a major communications hub for your projects
+This extra-large shield features three Xbee slots, a microSD slot, and Arduino shield headers compatible with most Arduino shields. It also includes a prototyping area and provides breakouts for Digital pins 14 to 53, Analog pins 6 to 15, and PWM pins 2 to 9. With these capabilities, this shield can serve as a key communication hub for your projects.
 
 <br>
 
@@ -92,14 +92,12 @@ This shield is extra large and includes 3 Xbee slots, 1 microSD slot, Arduino sh
 <br>
 | Specification        | Description                  |
 |----------------------|------------------------|
-| Microcontroller      | ATmega2560 (8-bit)     |
-| Clock Speed          | 16 MHz                 |
-| Flash memory capacity| 256 KB                 |
-| Operating Voltage    | 5 V                    |
-| Color                | Royal blue             |
-| Released in          | 2012                   |
-| Weight               | 37 grams               |
-| Dimensions           | 101.5mm x 53.3mm       |
+| Ports      | 3Pins     |
+| Digital Pins          | 14 Pins                |
+| Analog Pins | 6 Pins                 |
+| The external 5.5V power supply provides 3.3V    | Regulated power supply and is compatible with 3.3V components                   |
+
+It supports both 3.3V and 5V voltages, includes a switch for wireless communication or programming, and features clear, color-coded headers. Key highlights include 14 digital pins (6 with PWM), 6 analog pins, multiple communication interfaces (Xbee, Bluetooth, Wi-Fi), and extended ports for easy module connections. Designed for flexibility, it also supports external power for longer battery life and is compatible with various wireless modules and I2C interfaces.
 
 <br>
 
