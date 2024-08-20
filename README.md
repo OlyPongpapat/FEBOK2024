@@ -125,6 +125,16 @@ The LEGO Power Functions L-Motor (88003) is favored for its compact size, quiet 
 - **Camera** - OpenMV
 
 <img src="http://cdn.shopify.com/s/files/1/0803/9211/products/web-new-cam-v3-angle_grande.jpg?v=1480645085" width="400"/><br>
+
+| Specification        | Description                  |
+|----------------------|------------------------|
+| Processor             | ARM® 32-bit Cortex®-M7 CPU w/ Double Precision FPU, 480 MHz (1027 DMIPS), Core Mark Score: 2400 (compare w/ Raspberry Pi 2: 2340), and RAM Layout (33MB Total)|
+| RAM Layout (33MB Total)          | 256KB .DATA/.BSS/Heap/Stack, 32MB Frame Buffer/Stack, 512KB SDRAM Cache, 256KB DMA Buffers, and Flash Layout (34MB Total):             |
+| Flash Layout (34MB Total)                | 128KB Bootloader, 32MB Embedded Flash Drive, 1792KB Firmware, and Supported Image Formats               |
+| Supported Image Formats                | Grayscale, RGB565, JPEG (and BAYER/YUV422), and Maximum Supported Resolutions                   |
+| Maximum Supported Resolutions                | Grayscale: 2952x1944 (5MP) and under, RGB565: 2952x1944 (5MP) and under, Grayscale JPEG: 2952x1944 (5MP) and under, and RGB565 JPEG: 2952x1944 (5MP) and under      |
+| Lens Info                | Focal Length: 2.8mm, Aperture: F2.0, Format: 1/3", HFOV = 70.8°, VFOV = 55.6°, Mount: M12*0.5, and IR Cut Filter: 650nm (removable)      |
+
 <br>
 
 We decided to use this camera instead of the Pixy2.1 due to its excellent visual performance, which allows it to accurately distinguish objects and colors.Additionally, we use this camera to measure the XYZ axes, calculate the center of objects, and further enhance color differentiation accuracy.
@@ -134,6 +144,16 @@ We decided to use this camera instead of the Pixy2.1 due to its excellent visual
 - **Camera Shield** ( LCD Shield Rev 2 ) 
 
 <img src="https://wiki.amperka.ru/_media/products:openmv-lcd-shield:openmv-lcd-shield-install.2.jpg" width="250"/> <img src="http://imgmgr.banggood.com/images/oaupload/banggood/images/EC/B8/d7fdd717-16ac-4de0-b126-f83d9fcf89c4.JPG" width="287"/><br>
+
+| Specification        | Description                  |
+|----------------------|------------------------|
+| Screen Type             | 1.8" TFT LCD             |
+| Horizontal Resolution          | 128 pixels (28.03mm) 0.18mm pixel pitch             |
+| Vertical Resolution                | 160 pixels (35.04mm) 0.18mm pixel pitch               |
+| Brand                | LEGO                   |
+| Display Colors                | 64K 16-bit RGB565      |
+
+
 <br>
 
 We added this component so that when we test the robot without connecting it to the computer, we can still identify any errors that occur.
@@ -175,7 +195,7 @@ An impressive sensor with **built-in temperature compensation**, which minimizes
 
 <br>
 
-Color Sensor - We use the Virus-III designed by Sopon and the ZX-03 designed by INEX to detect the field's colors. The red ZX-03 Reflector is used to detect the blue line, while the green Virus-III is used to detect the red line, allowing us to accurately measure color values on the field.
+- **Color Sensor** - We use the Virus-III designed by Sopon and the ZX-03 designed by INEX to detect the field's colors. The red ZX-03 Reflector is used to detect the blue line, while the green Virus-III is used to detect the red line, allowing us to accurately measure color values on the field.
 
 <img src="https://inex.co.th/home/wp-content/uploads/2020/07/zx_03_tcrt.jpg" width="400"/><img src="https://github.com/ThanyawutII/Test/blob/main/Picture2.jpg" width="285"/>
 
