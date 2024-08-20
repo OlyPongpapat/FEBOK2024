@@ -75,14 +75,14 @@ It's a popular microcontroller board based on the ATmega2560 processor, featurin
 <br>
 | Specification        | Description                  |
 |----------------------|------------------------|
-| Microcontroller      | ATmega2560 (8-bit)     |
-| Clock Speed          | 16 MHz                 |
-| Flash memory capacity| 256 KB                 |
-| Operating Voltage    | 5 V                    |
-| Color                | Royal blue             |
-| Released in          | 2012                   |
-| Weight               | 37 grams               |
+| Xbee slots      | 3 slots     |
+| MicroSD slot          | 1 slots                 |
+| Power selector | To select between Arduino Mega power or external power                 |
+| Extended TTL connection pins          | for 4 Serial ports                   |
+| support               | most of the arduino shield               |
 | Dimensions           | 125 x 57 mm            |
+
+This shield is extra large and includes 3 Xbee slots, 1 microSD slot, Arduino shield headers to plugin most Arduino shields. It also includes a prototyping area and breakouts for Digital pins 14 to 53, Analog pins 6 to 15 and PWM pins 2 to 9. This shield can be a major communications hub for your projects
 
 <br>
 
