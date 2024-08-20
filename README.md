@@ -264,14 +264,15 @@ When the switch is pressed, the DATA pin will be at a logic "1" due to R2, which
 
 <be>
 
-'''c
-#include "Mapf.h"
-#include "Servo.h"
-#include <PID_v2.h>
-
-Servo myservo1;
-Servo myservo2;
-'''
+  '''c
+  #include "Mapf.h"
+  #include "Servo.h"
+  #include <PID_v2.h>
+  
+  Servo myservo1;
+  Servo myservo2;
+  
+  '''
 
 At the top of the program. We're setting up our code for controlling two servos, myservo1 and myservo2, along with using a PID controller.
 
