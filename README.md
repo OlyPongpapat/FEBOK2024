@@ -262,5 +262,71 @@ When the switch is pressed, the DATA pin will be at a logic "1" due to R2, which
 <br>
 ❗ Please Note that** ❗> We are using the **Arduino Mega 2560 REV3**. If you choose to replicate our project with a different board, you may need to make some adjustments to the code provided in this repository.
 
-<br>
+<be>
 
+'''c
+#include "Mapf.h"
+#include "Servo.h"
+#include <PID_v2.h>
+
+Servo myservo1;
+Servo myservo2;
+'''
+
+At the top of the program. We're setting up our code for controlling two servos, myservo1 and myservo2, along with using a PID controller.
+
+'''c
+float pvYaw, pvRoll, pvPitch;
+uint8_t rxCnt = 0, rxBuf[8];
+'''
+
+pvYaw, pvRoll, pvPitch: These are floating-point variables meant to store the yaw, roll, and pitch values from the compass sensor or the IMU . These values represent the orientation of our robot.
+
+'''c
+const int E1Pin = 10;
+const int M1Pin = 12;
+'''
+
+E1Pin and E2Pin: Control the speed (enable pins) of the motors.
+
+'''c
+typedef struct {
+  byte enPin;
+  byte directionPin;
+} MotorContrl;
+'''
+
+A structure that groups together the enable pin (enPin) and the direction pin . This structure makes it easier to manage motor control in the code.
+
+'''c
+const int M1 = 0;
+const int MotorNum = 1;
+'''
+
+M1 represents the index for the first motor in the MotorPin array.
+MotorNum indicates the total number of motors, set to 1 
+
+const MotorContrl MotorPin[] = { {E1Pin, M1Pin}, {E2Pin, M2Pin} };
+
+MotorPin[]: An array of Motor Control structures that holds the pin configurations for two motors.
+The first motor uses E1Pin and M1Pin.
+The second motor uses E2Pin and M2Pin.
+
+int const STEER_SRV = 23;
+int const ULTRA_SRV = 16;
+
+STEER_SRV: Pin 23 is used to control the steering servo.
+ULTRA_SRV: Pin 16 is used to control the servo connected to the ultrasonic sensor.
+
+int const ULTRA_PIN = A9;
+
+ULTRA_PIN: Pin A9 is connected to the ultrasonic sensor, used for distance measurements.
+
+int const RED_SEN = A6;
+int const GEEN_SEN = A7;
+
+RED_SEN: Pin A6 is connected to the red light sensor.
+GEEN_SEN: Pin A7 is connected to the green light sensor.
+
+int const BUTTON = A8;
+BUTTON: Pin A8 is connected to a button, used for user input or starting/stopping the robot.
