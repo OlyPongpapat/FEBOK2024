@@ -56,13 +56,19 @@ Even with all of that, we will still use Lego parts to connect in a very precise
 <br>
 | Specification        | Description                  |
 |----------------------|------------------------|
-| Microcontroller      | ATmega2560 (8-bit)     |
-| Clock Speed          | 16 MHz                 |
-| Flash memory capacity| 256 KB                 |
-| Operating Voltage    | 5 V                    |
-| Color                | Royal blue             |
-| Released in          | 2012                   |
-| Weight               | 37 grams               |
+| Microcontroller |	ATmega2560 |
+| Operating | Voltage	5V |
+| Input Voltage (recommended)|	7-12V |
+| Input Voltage (limit) |	6-20V |
+| Digital I/O Pins |	54 (of which 15 provide PWM output) |
+| Analog Input | Pins	16 |
+| DC Current per I/O Pin |	20 mA |
+| DC Current for 3.3V | Pin	50 mA |
+| Flash Memory |	256 KB of which 8 KB used by bootloader |
+| SRAM	| 8 KB |
+| EEPROM	| 4 KB |
+| Clock Speed |	16 MHz |
+| LED_BUILTIN |	13 |
 | Dimensions           | 101.5mm x 53.3mm       |
 
 It's a popular microcontroller board based on the ATmega2560 processor, featuring a large number of digital and analog I/O pins, making it suitable for complex projects that require a lot of inputs and outputs like Future Engineer. Having a lot of ports get rid of the problem that we do not have enough ports to connect 'OpenMV camera' while using 'Gyro'. This is why we trust and select Arduino Mega 2560 REV3.
