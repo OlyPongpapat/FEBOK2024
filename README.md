@@ -177,7 +177,7 @@ An impressive sensor with **built-in temperature compensation**, which minimizes
 
 Color Sensor - We use the Virus-III designed by Sopon and the ZX-03 designed by INEX to detect the field's colors. The red ZX-03 Reflector is used to detect the blue line, while the green Virus-III is used to detect the red line, allowing us to accurately measure color values on the field.
 
-<img src="https://inex.co.th/home/wp-content/uploads/2020/07/zx_03_tcrt.jpg" width="400"/>
+<img src="https://inex.co.th/home/wp-content/uploads/2020/07/zx_03_tcrt.jpg" width="400"/><img src="https://github.com/ThanyawutII/Test/blob/main/Picture2.jpg" width="285"/>
 
 <br>
 
