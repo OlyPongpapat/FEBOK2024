@@ -245,6 +245,11 @@ When the switch is pressed, the DATA pin will be at a logic "1" due to R2, which
 
 <br>
 
+- **Power Switch** - We use this switch designed by us to turn the power supplied to the robor on and off.
+
+<img src="https://github.com/ThanyawutII/Test/blob/main/51558.jpg" width="300"/><br>
+
+
 # **Part 2 : Programming**
  
 ##📢 Setting up your Board and Arduino Software 
